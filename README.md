@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JentoP
+- 👋 Hi, I’m Jento
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning React
 - ⚡ Fun fact: I like to do file management
