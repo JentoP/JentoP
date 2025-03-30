@@ -17,15 +17,13 @@
 
 
 ## 🔥Tech Stack
-<div class="">
-<img src="[https://example.com/image.png](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" style="max-width: 100%">
-  </div
 JavaScript HTML5 CSS3 TypeScript Vercel NPM Next NodeJS React Bootstrap TailwindCSS SQL NoSQL Postgres Adobe Photoshop Adobe Premiere Pro Figma Docker 
+ 
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-    
 ## 🌐 Websites
 ### Personal websites
-<a src="[https://jentopieters.be]"> Personal Website </a> (WIP)
+[Personal Website](https://jentopieters.be)
 Portfolio (WIP)
 
 ### Client showcases
