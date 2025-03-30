@@ -5,9 +5,10 @@
 - 🙋 Hi! My name is Jento
 - 🎓 Student at Thomas More College
 - 🏢 Working as a full time logistic worker
+  
 - 👀 I’m very interested in Computer Science
 - 🌱 Currently learning React
-- ⚡️ Fun fact - I have a home lab
+- ⚡️ Fun fact - I have a home lab 🤓☝️
 
 
 ## 💻 Projects in the making:
