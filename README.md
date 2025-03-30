@@ -34,12 +34,15 @@
 
 ## 🌐 Websites
 ### Personal websites
-[Personal Website](https://jentopieters.be)
-Portfolio (WIP)
+- [Personal Website](https://jentopieters.be)
+- [Portfolio](https://portfolio.jentopieters.be) *WIP*
 
-### Client showcases
+### ~~Client showcases~~
 
 ### Socials:
-LinkedIn X YouTube
+[LinkedIn](https://www.linkedin.com/in/pietersj/)
+[X](https://twitter.com/denjento)
+[YouTube](https://www.youtube.com/@Jento.)
+
 
 ## 📊 GitHub Stats:
