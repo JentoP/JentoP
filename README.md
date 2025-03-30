@@ -30,7 +30,7 @@
 | Bootstrap          | Google Cloud     |                      |                           |                         |
 | TailwindCSS        |                  |                      |                           | Computer Repair         |
 | NodeJS             |                  |                      |                           | Networking              |
-| Python *lIP*       |                  |                      |                           | Security                |
+| Python *LIP*       |                  |                      |                           | Security                |
 
 *LIP = Learning In Progress*
 
