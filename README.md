@@ -18,19 +18,19 @@
 
 
 ## 🔥Tech Stack
-| **Programming**    | **Databases** | **Software**         | **Graphics**              | **Systems**             |
-|--------------------|---------------|----------------------|---------------------------|-------------------------|
-| JavaScript         | SQL           | Office 365           | Adobe Photoshop           | Linux Ubuntu            |
-| HTML5              | NoSQL         | NPM                  | Adobe After Effects       | RaspberryOS             |
-| CSS3               | Postgres      | Docker               | Adobe Premiere Pro        | Windows OS              |
-| TypeScript         | Vercel        | WordPress            | Figma                     | Windows Server          |
-| NodeJS             | Snowflake     |                      | Sony Vegas Pro            | Linux Server            |
-| React              |               |                      |                           | Google Cloud            |
-| Next.js            |               |                      |                           | Android                 |
-| Bootstrap          |               |                      |                           |                         |
-| TailwindCSS        |               |                      |                           | Computer Repair         |
-| Java               |               |                      |                           | Overclocking            |
-| ~~Python~~         |               |                      |                           | Security                |
+| **Programming**    | **Databases**    | **Software**         | **Graphics**              | **Systems**             |
+|--------------------|------------------|----------------------|---------------------------|-------------------------|
+| Java               | SQL              | Office 365           | Adobe Photoshop           | Linux Ubuntu            |
+| HTML5              | NoSQL            | NPM                  | Adobe After Effects       | RaspberryOS             |
+| CSS3               | Postgres         | Docker               | Adobe Premiere Pro        | Windows OS              |
+| JavaScript         | Vercel           | WordPress            | Figma                     | Windows Server          |
+| TypeScript         | Snowflake        |                      | Sony Vegas Pro            | Linux Server            |
+| ~~React~~ WIP      | ~~Firebase~~ WIP |                      |                           | Android                 |
+| Next.js            | ~~Supabase~~ WIP |                      |                           |                         |
+| Bootstrap          | Google Cloud     |                      |                           |                         |
+| TailwindCSS        |                  |                      |                           | Computer Repair         |
+| NodeJS             |                  |                      |                           | Networking              |
+| ~~Python~~  WIP    |                  |                      |                           | Security                |
 
 ## 🌐 Websites
 ### Personal websites
