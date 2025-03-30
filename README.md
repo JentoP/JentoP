@@ -25,19 +25,20 @@
 | CSS3               | Postgres         | Docker               | Adobe Premiere Pro        | Windows OS              |
 | JavaScript         | Vercel           | WordPress            | Figma                     | Windows Server          |
 | TypeScript         | Snowflake        |                      | Sony Vegas Pro            | Linux Server            |
-| React *WIP*        | Firebase *WIP*   |                      |                           | Android                 |
-| Next.js *WIP*      | Supabase *WIP*   |                      |                           |                         |
+| React *LIP*        | Firebase *LIP*   |                      |                           | Android                 |
+| Next.js *LIP*      | Supabase *LIP*   |                      |                           |                         |
 | Bootstrap          | Google Cloud     |                      |                           |                         |
 | TailwindCSS        |                  |                      |                           | Computer Repair         |
 | NodeJS             |                  |                      |                           | Networking              |
-| Python *WIP*       |                  |                      |                           | Security                |
+| Python *lIP*       |                  |                      |                           | Security                |
+
+*LIP = Learning In Progress*
+
 
 ## 🌐 Websites
 ### Personal websites
 - [Personal Website](https://jentopieters.be)
 - [Portfolio](https://portfolio.jentopieters.be) *WIP*
-
-### ~~Client showcases~~
 
 ### Socials:
 [LinkedIn](https://www.linkedin.com/in/pietersj/)
