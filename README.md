@@ -17,9 +17,19 @@
 
 
 ## 🔥Tech Stack
-JavaScript HTML5 CSS3 TypeScript Vercel NPM Next NodeJS React Bootstrap TailwindCSS SQL NoSQL Postgres Adobe Photoshop Adobe Premiere Pro Figma Docker 
- 
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+| **Programming**    | **Databases** | **Software**         | **Graphics**              | **Systems**             |
+|--------------------|---------------|----------------------|---------------------------|-------------------------|
+| JavaScript         | SQL           | Office 365           | Adobe Photoshop           | Linux Ubuntu            |
+| HTML5              | NoSQL         | NPM                  | Adobe After Effects       | RaspberryOS             |
+| CSS3               | Postgres      | Docker               | Adobe Premiere Pro        | Windows OS              |
+| TypeScript         | Vercel        | WordPress            | Figma                     | Windows Server          |
+| NodeJS             | Snowflake     |                      | Sony Vegas Pro            | Linux Server            |
+| React              |               |                      |                           | Google Cloud            |
+| Next.js            |               |                      |                           | Android                 |
+| Bootstrap          |               |                      |                           |                         |
+| TailwindCSS        |               |                      |                           | Computer Repair         |
+| Java               |               |                      |                           | Overclocking            |
+| ~~Python~~         |               |                      |                           | Security                |
 
 ## 🌐 Websites
 ### Personal websites
