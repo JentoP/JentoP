@@ -25,12 +25,12 @@
 | CSS3               | Postgres         | Docker               | Adobe Premiere Pro        | Windows OS              |
 | JavaScript         | Vercel           | WordPress            | Figma                     | Windows Server          |
 | TypeScript         | Snowflake        |                      | Sony Vegas Pro            | Linux Server            |
-| ~~React~~ WIP      | ~~Firebase~~ WIP |                      |                           | Android                 |
-| Next.js            | ~~Supabase~~ WIP |                      |                           |                         |
+| React *WIP*        | Firebase *WIP*   |                      |                           | Android                 |
+| Next.js *WIP*      | Supabase *WIP*   |                      |                           |                         |
 | Bootstrap          | Google Cloud     |                      |                           |                         |
 | TailwindCSS        |                  |                      |                           | Computer Repair         |
 | NodeJS             |                  |                      |                           | Networking              |
-| ~~Python~~  WIP    |                  |                      |                           | Security                |
+| Python *WIP*       |                  |                      |                           | Security                |
 
 ## 🌐 Websites
 ### Personal websites
