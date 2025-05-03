@@ -7,7 +7,7 @@
 - 🏢 Working as a full time logistic worker
   
 - 👀 I’m very interested in Computer Science
-- 🌱 Currently learning React
+- 🌱 Currently learning React NextJS, Flutter and Kotlin
 - ⚡️ Fun fact - I have a home lab 🤓☝️
 
 
@@ -25,7 +25,7 @@
 | CSS3               | Postgres         | Docker               | Adobe Premiere Pro        | Windows OS              |
 | JavaScript         | Vercel           | WordPress            | Figma                     | Windows Server          |
 | TypeScript         | Snowflake        |                      | Sony Vegas Pro            | Linux Server            |
-| React *LIP*        | Firebase *LIP*   |                      |                           | Android                 |
+| React              | Firebase         |                      |                           | Android                 |
 | Next.js *LIP*      | Supabase *LIP*   |                      |                           |                         |
 | Bootstrap          | Google Cloud     |                      |                           |                         |
 | TailwindCSS        |                  |                      |                           | Computer Repair         |
