@@ -1,20 +1,26 @@
 # 👋 Hello World
 
 
-## 👨🏼‍🎨 About Me:
+#  About Me:
 - 🙋 Hi! My name is Jento
-- 🎓 Student at Thomas More College
-- 🏢 Working as a full time logistic worker
-  
 - 👀 I’m very interested in Computer Science
-- 🌱 Currently learning React NextJS, Flutter and Kotlin
+
+## What do I do?
+- 🏢 Working as a full time logistic worker
+- 🎓 Student at Thomas More College
+- 💰 Entrepreneur as marketing/IT specialist
+
+## What's on my plate?
+- 🏠 Completely renovating my new house
+- 🌱 Currently learning Flutter and Kotlin
 - ⚡️ Fun fact - I have a home lab 🤓☝️
 
 
 ## 💻 Projects in the making:
-      - PC Builder
-      - Personal Finance app
-      - Portfolio
+- PC Builder (DONE [See it here] (https://github.com/JentoP/pc-builder-app)
+- Personal Finance app
+- House Planner app
+- App that utilizes a LLM
 
 
 ## 🔥Tech Stack
@@ -23,14 +29,14 @@
 | Java               | SQL              | Office 365           | Adobe Photoshop           | Linux Ubuntu            |
 | HTML5              | NoSQL            | NPM                  | Adobe After Effects       | RaspberryOS             |
 | CSS3               | Postgres         | Docker               | Adobe Premiere Pro        | Windows OS              |
-| JavaScript         | Vercel           | WordPress            | Figma                     | Windows Server          |
-| TypeScript         | Snowflake        |                      | Sony Vegas Pro            | Linux Server            |
+| JavaScript         | Vercel           | WordPress            | Sony Vegas Pro            | Windows Server          |
+| TypeScript         | Snowflake        |                      | Figma    *LIP*            | Linux Server            |
 | React              | Firebase         |                      |                           | Android                 |
-| Next.js *LIP*      | Supabase *LIP*   |                      |                           |                         |
-| Bootstrap          | Google Cloud     |                      |                           |                         |
-| TailwindCSS        |                  |                      |                           | Computer Repair         |
+| Next.js            | Supabase         |                      |                           | iOS     *LIP*           |
+| Bootstrap          | G Cloud    *LIP* |                      |                           | MacOS   *LIP*           |
+| TailwindCSS        |                  |                      |                           | Computer Hardware       |
 | NodeJS             |                  |                      |                           | Networking              |
-| Python *LIP*       |                  |                      |                           | Security                |
+| Python     *LIP*   |                  |                      |                           | Security                |
 
 *LIP = Learning In Progress*
 
@@ -38,12 +44,8 @@
 ## 🌐 Websites
 ### Personal websites
 - [Personal Website](https://jentopieters.be)
-- [Portfolio](https://portfolio.jentopieters.be) *WIP*
 
 ### Socials:
 [LinkedIn](https://www.linkedin.com/in/pietersj/)
-[X](https://twitter.com/denjento)
-[YouTube](https://www.youtube.com/@Jento.)
 
-
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
