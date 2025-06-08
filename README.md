@@ -18,7 +18,7 @@
 
 
 ## 💻 Projects in the making:
-- PC Builder DONE [See it here](https://github.com/JentoP/pc-builder-app)
+- PC Builder - DONE [See it here](https://github.com/JentoP/pc-builder-app)
 - Personal Finance app
 - House Planner app
 - App that utilizes a LLM
