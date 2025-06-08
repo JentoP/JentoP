@@ -43,7 +43,7 @@
 
 ## 🌐 Websites
 ### Personal websites
-- [Personal Website](https://jentopieters.be)
+[Personal Website](https://jentopieters.be)
 
 ### Socials:
 [LinkedIn](https://www.linkedin.com/in/pietersj/)
