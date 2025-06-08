@@ -1,8 +1,9 @@
 # 👋 Hello World
 
 
+
 # 🤵 About Me:
-- 🙋 Hi! My name is Jento
+- 🙋 My name is Jento
 - 👀 I’m very interested in Computer Science
 
 ## What do I do?
