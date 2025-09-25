@@ -8,7 +8,7 @@
 
 ## What do I do?
 - 🏢 Working as a full time logistic worker
-- 🎓 Student at Thomas More College
+- 🎓 Student Full Stack Developer at Thomas More College
 - 💰 Entrepreneur as marketing/IT specialist
 
 ## What's on my plate?
@@ -22,6 +22,7 @@
 - Personal Finance app
 - House Planner app
 - App that utilizes a LLM
+- Personal Dashboard app
 
 
 ## 🔥Tech Stack
@@ -32,7 +33,7 @@
 | CSS3               | Postgres         | Docker               | Adobe Premiere Pro        | Windows OS              |
 | JavaScript         | Vercel           | WordPress            | Sony Vegas Pro            | Windows Server          |
 | TypeScript         | Snowflake        |                      | Figma    *LIP*            | Linux Server            |
-| React              | Firebase         |                      |                           | Android                 |
+| React              |                  |                      |                           | Android                 |
 | Next.js            | Supabase         |                      |                           | iOS     *LIP*           |
 | Bootstrap          | G Cloud    *LIP* |                      |                           | MacOS   *LIP*           |
 | TailwindCSS        |                  |                      |                           | Computer Hardware       |
