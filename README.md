@@ -19,10 +19,11 @@
 
 ## 💻 Projects in the making:
 - PC Builder - DONE [See it here](https://github.com/JentoP/pc-builder-app)
+- Event Management app - DONE [See it here](https://yourevents-gamma.vercel.app/)
 - Personal Finance app
 - House Planner app
 - App that utilizes a LLM
-- Personal Dashboard app
+- Personal Dashboard app - WIP
 
 
 ## 🔥Tech Stack
