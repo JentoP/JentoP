@@ -13,7 +13,7 @@
 
 ## What's on my plate?
 - 🏠 Completely renovating my new house
-- 🌱 Currently learning Flutter and Kotlin
+- 🌱 Currently learning advanced programming techniques
 - ⚡️ Fun fact - I have a home lab 🤓☝️
 
 
