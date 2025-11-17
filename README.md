@@ -20,10 +20,10 @@
 ## 💻 Projects in the making:
 - PC Builder - DONE [See it here](https://uw-pc.be)
 - Event Management app - DONE [See it here](https://yourevents-gamma.vercel.app/)
-- Personal Finance app
+- To Do App that utilizes a LLM and works with Proton calendar 
+- Personal Open Source Finance app
 - House Planner app
-- App that utilizes a LLM
-- Personal Dashboard app - WIP
+- Personal Dashboard app
 
 
 ## 🔥Tech Stack
