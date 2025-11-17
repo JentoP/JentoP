@@ -18,7 +18,7 @@
 
 
 ## 💻 Projects in the making:
-- PC Builder - DONE [See it here](https://github.com/JentoP/pc-builder-app)
+- PC Builder - DONE [See it here](https://uw-pc.be)
 - Event Management app - DONE [See it here](https://yourevents-gamma.vercel.app/)
 - Personal Finance app
 - House Planner app
