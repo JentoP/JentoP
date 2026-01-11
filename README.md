@@ -2,7 +2,7 @@
 
 
 
-# 🤵 About Me:
+## 🤵 About Me:
 - 🙋 My name is Jento
 - 👀 I’m very interested in Computer Science
 
@@ -13,7 +13,7 @@
 
 ## What's on my plate?
 - 🏠 Completely renovating my new house
-- 🌱 Currently learning advanced programming techniques
+- 🌱 Currently learning Security
 - ⚡️ Fun fact - I have a home lab 🤓☝️
 
 
