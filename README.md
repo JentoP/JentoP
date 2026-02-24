@@ -13,7 +13,7 @@
 
 ## What's on my plate?
 - 🏠 Completely renovating my new house
-- 🌱 Currently learning Security
+- 🌱 Currently learning Dart
 - ⚡️ Fun fact - I have a home lab 🤓☝️
 
 
@@ -21,7 +21,7 @@
 - PC Builder - DONE [See it here](https://uw-pc.be)
 - Event Management app - DONE [See it here](https://yourevents-gamma.vercel.app/)
 - To Do App that works with external calendars
-- Personal Finance app
+- Personal Finance app - ALMOST DONE (available soon as a docker image)
 - House Planner app
 - Personal Dashboard app that utilizes a (local) LLM
 
