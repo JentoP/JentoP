@@ -20,9 +20,9 @@
 ## 💻 Projects in the making:
 - PC Builder - DONE [See it here](https://uw-pc.be)
 - Event Management app - DONE [See it here](https://yourevents-gamma.vercel.app/)
-- To Do App that works with external calendars
-- Personal Finance app - ALMOST DONE (available soon as a docker image)
+- Personal Finance app - DONE (available soon as a docker image)
 - House Planner app
+- To Do App that works with external calendars
 - Personal Dashboard app that utilizes a (local) LLM
 
 
@@ -34,10 +34,10 @@
 | CSS3               | Postgres         | Docker               | Adobe Premiere Pro        | Windows OS              |
 | JavaScript         | Vercel           | WordPress            | Sony Vegas Pro            | Windows Server          |
 | TypeScript         | Snowflake        |                      | Figma    *LIP*            | Linux Server            |
-| React              |                  |                      |                           | Android                 |
+| React              | Neon             |                      |                           | Android                 |
 | Next.js            | Supabase         |                      |                           | iOS     *LIP*           |
-| Bootstrap          | G Cloud    *LIP* |                      |                           | MacOS   *LIP*           |
-| TailwindCSS        |                  |                      |                           | Computer Hardware       |
+| Bootstrap          | Firebase         |                      |                           | MacOS   *LIP*           |
+| TailwindCSS        | G Cloud    *LIP* |                      |                           | Computer Hardware       |
 | NodeJS             |                  |                      |                           | Networking              |
 | Python     *LIP*   |                  |                      |                           | Security                |
 
