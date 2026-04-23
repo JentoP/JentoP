@@ -20,7 +20,7 @@
 ## 💻 Projects in the making:
 - PC Builder - DONE [See it here](https://uw-pc.be)
 - Event Management app - DONE [See it here](https://yourevents-gamma.vercel.app/)
-- Personal Finance app - DONE (available soon as a docker image)
+- Personal Finance app - DONE [See it here](https://bam.uwapp.tech/)
 - House Planner app
 - To Do App that works with external calendars
 - Personal Dashboard app that utilizes a (local) LLM
