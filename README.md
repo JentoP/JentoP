@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://jentopieters.be"><img src="https://img.shields.io/badge/Portfolio-jentopieters.be-3b82f6?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/pietersj/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
+  
   <a href="https://www.itspieters.be"><img src="https://img.shields.io/badge/Freelance-IT%20Service%20Pieters-06b6d4?style=flat-square" /></a>
 </p>
 
@@ -22,13 +22,13 @@
 
 - 🖥️ **IT System Engineer** @ Organi — full-time
 - 💰 **Owner**, IT Service Pieters — freelance software development, IT support & network management for individuals and businesses
-- 🎓 Finishing up my **Graduaat Programmeren** (Full Stack Development) at Thomas More Hogeschool
+- 🎓 Graduated as Full Stack Developer at Thomas More Hogeschool
 
 ## 🌱 What's On My Plate
 
 - 🏠 Completely renovating my new house
-- 🎯 Learning Dart (and eyeing Flutter for cross-platform apps)
-- 🤓 Running a home lab — because regular hobbies are overrated
+- 🎯 Learning Tauri (eyeing for cross-platform apps)
+- 🤓 Running a home lab (because regular hobbies are overrated 😜) 
 - 📚 Always picking up something new in AI tooling & automation
 
 ## 💻 Projects
@@ -38,9 +38,9 @@
 | 🖥️ PC Builder | ✅ Done | [Visit](https://uw-pc.be) |
 | 📅 Event Management App | ✅ Done | [Visit](https://yourevents-gamma.vercel.app/) |
 | 💸 Personal Finance App | ✅ Done | [Visit](https://bam.uwapp.tech/) |
-| 🏡 House Planner App | 🚧 In progress | — |
-| ✅ To-Do App (syncs with external calendars) | 🚧 In progress | — |
-| 🤖 Personal Dashboard powered by a local LLM | 💡 Planned | — |
+| 🏡 Renovation Planner App | 🚧 In progress | — |
+| ✅ AI To Do App (syncs with proton suite) | 💡 Planned | — |
+| 🤖 Personal Dashboard powered by a local LLM |  🚧 In progress | — |
 
 ## 🔥 Tech Stack
 
