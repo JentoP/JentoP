@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hello World, I'm Jento</h1>
 
 <p align="center">
-  <em>Driven IT professional from Lokeren, Belgium 🇧🇪 — bridging hardware, software, and a bit of everything in between.</em>
+ Driven IT professional from Lokeren, Belgium 🇧🇪 </p>
+<p align="center">
+Bridging hardware, software, and a bit of everything in between.
 </p>
 
 <p align="center">
