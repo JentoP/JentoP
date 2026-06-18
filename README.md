@@ -7,8 +7,8 @@ Bridging hardware, software, and a bit of everything in between.
 </p>
 
 <p align="center">
-  <a href="https://jentopieters.be"><img src="https://img.shields.io/badge/Portfolio-jentopieters.be-3b82f6?style=flat-square" /></a>
-  
+  <a href="https://jentopieters.be"><img src="https://img.shields.io/badge/Portfolio-jentopieters.be-3b82f6?style=flat-square" /></a> </p>
+  <p align="center">
   <a href="https://www.itspieters.be"><img src="https://img.shields.io/badge/Freelance-IT%20Service%20Pieters-06b6d4?style=flat-square" /></a>
 </p>
 
