@@ -14,7 +14,7 @@
 
 ## 🤵 About Me
 
-- 🙋 My name is **Jento Pieters**
+- 🙋 My name is **Jento**
 - 👀 Endlessly curious about computer science — hardware, software, and everything that connects them
 - 🧠 I like turning messy real-world problems into clean, working systems
 
