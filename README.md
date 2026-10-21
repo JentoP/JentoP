@@ -40,7 +40,9 @@ Bridging hardware, software, and a bit of everything in between.
 | 🖥️ PC Builder | ✅ Done | [Visit](https://uw-pc.be) |
 | 📅 Event Management App | ✅ Done | [Visit](https://yourevents-gamma.vercel.app/) |
 | 💸 Personal Finance App | ✅ Done | [Visit](https://uwrekening.be/) |
-| 🏡 Renovation Planner App | 🚧 In progress | — |
+| 🏡 Renovation Planner App | ✅ Done | — |
+| 🏡 Photo Album Sharing App | ✅ Done | [Visit](https://flipps.uwapp.be/) |
+| 🏡 Christmas Lots Drawer App | ✅ Done | [Visit](https://wishmas.uwapp.be/)  |
 | ✅ AI To Do App (syncs with proton suite) | 💡 Planned | — |
 | 🤖 Personal Dashboard powered by a local LLM |  🚧 In progress | — |
 
