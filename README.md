@@ -43,8 +43,8 @@ Bridging hardware, software, and a bit of everything in between.
 | 🏡 Renovation Planner App | ✅ Done | — |
 | 🏡 Photo Album Sharing App | ✅ Done | [Visit](https://flipps.uwapp.be/) |
 | 🏡 Christmas Lots Drawer App | ✅ Done | [Visit](https://wishmas.uwapp.be/)  |
-| ✅ AI To Do App (syncs with proton suite) | 💡 Planned | — |
-| 🤖 Personal Dashboard powered by a local LLM |  🚧 In progress | — |
+| ✅ Personal To Do & Notes App (with MCP connection to an AI chatbot) | ✅ Done | — |
+| 🤖 Personal Dashboard powered by a local LLM |  ✅ Done | — |
 
 ## 🔥 Tech Stack
 
